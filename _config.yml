@@ -1,9 +1,8 @@
 theme: minima
 
 title: Fire relief for Henry and friends
-author:
-  name: Charles Mattei
-  email: mail@example.com
+author: Charles Mattei
+email: mail@example.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
