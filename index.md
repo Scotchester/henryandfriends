@@ -37,8 +37,7 @@ Name                  | Picture               | Bio
 --------------------- | --------------------- | --------------------- 
 Henry                 | coming soon           | coming soon     
 Melusine              | coming soon           | Melusine likes everything that is cute, like Axolotls. She plays soccer, tennis and practice Martial Arts in Altadena. 
-Nova                  | coming soon           | coming soon
-Sacha                 | coming soon           | coming soon
+
 
 ## Contact Us
 If you have questions or other ideas to contribute feel free to reach out to our email address  
