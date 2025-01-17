@@ -12,7 +12,7 @@ Henry and his friends lost their homes during the Eaton Fire that started on Jan
 
 Henry and his friends are 1st graders attending the Altedena Art Magnets Elementary School, the public school survived the fire miraculously but most likely wont reopen for the rest of the school year. It is uncertain what will happen to the students.
 
-[![Henry's interview by FOX 11 L.A.](https://i.ytimg.com/vi/K7ZdgHYQ1Lw/maxresdefault.jpg)]([https://www.youtube.com/watch?v=StTqXEQ2l-Y](https://youtu.be/K7ZdgHYQ1Lw) " California Fires: Child details moments leading up to home being destroyed ")
+[![Henry's interview by FOX 11 L.A.](https://i.ytimg.com/vi/K7ZdgHYQ1Lw/maxresdefault.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y)
 
 The webpage is under construction and we'll update it daily. Please bear with us while we add all the information.
 
