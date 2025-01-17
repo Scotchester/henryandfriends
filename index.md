@@ -7,14 +7,14 @@
 #
 layout: home
 ---
-
+[![Henry's interview by FOX 11 L.A.](https://i.ytimg.com/vi/K7ZdgHYQ1Lw/maxresdefault.jpg)](https://www.youtube.com/watch?v=K7ZdgHYQ1Lw)
 Henry and his friends lost their homes during the Eaton Fire that started on January 8th and spread out to Altadena, California. They are left with the devastating reality of having lost everything they knew and loved. The safety of their bedroom, the toys they received for Christmas, the backyard they used to play in. We are setting up this webpage for the sake of our kids and their future. We're reaching out humbly for help during this unimaginable time. Thank you from the bottom of our hearts for standing with us through this heartbreak. Your kindness reminds us that even in the darkest times, we are not alone.
 
 Henry and his friends are 1st graders attending the Altedena Art Magnets Elementary School, the public school survived the fire miraculously but most likely wont reopen for the rest of the school year. It is uncertain what will happen to the students.
 
-[![Henry's interview by FOX 11 L.A.](https://i.ytimg.com/vi/K7ZdgHYQ1Lw/maxresdefault.jpg)](https://www.youtube.com/watch?v=K7ZdgHYQ1Lw)
-
 The webpage is under construction and we'll update it daily. Please bear with us while we add all the information.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7ZdgHYQ1Lw?si=SsqSpp14C6H8K6qI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## How Can I help?
 There are many ways to help Henry and his friends.
