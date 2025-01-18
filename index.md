@@ -30,15 +30,27 @@ Resharing these kids story will help get more people involved in the challenging
 
 ## The kids
 
-> #### From Melusine
->
-> *"I know how to go through this, we just need to clean, rebuild and start getting the things we need one step at a time. Look, yesterday you bought me my first plushie, we can do this!"*
+### Henry
+#### Bio
+Henry, a vibrant 6-year-old boy, has faced unimaginable challenges after losing his home in the devastating Eden Fire on January 7. A student at AAM’s French Immersion Program, Henry is a bright and curious learner with a heart full of compassion.
+
+He finds joy in swimming classes, art projects, and martial arts, and his spirited nature makes him stand out. Known for his outgoing personality and his heart of gold, Henry is always eager to lend a helping hand to those around him. His teacher lovingly describes him as a boy who takes initiative and finds joy in assisting others.
+
+The fire took everything, including Henry’s beloved 3D printer, a prized possession that fueled his creativity, as well as the cherished toys he shared with his younger brother, Lucas. Despite the sadness of losing so much, Henry’s resilience and kindness shine through.
+
+Now, Henry is on a mission to bring joy not just to himself but to others who have also experienced loss. He wants to raise toys to share with friends who, like him, lost everything. Henry’s determination to help others in the face of adversity is a testament to his incredible spirit and caring nature.
+
+### Melusine
+#### Bio
+Melusine, is a bright 6-year-old girl full of life. She lives at 200%. She's Henry's classmate in the AAM’s French Immersion Program. She is full of love, and a big hugger. She's always the first to go to someone that is hurt to help them stand up.
+
+She never gives up even when things are challenging to her. She likes playing tennis and soccer and participated in her first Martial Art demonstration in Altadena.
+She loves art and she's really good at drawing, painting and crafting. She's also an avid reader and had lots of books and comics. She goes to bed every night reading a book. 
+The fire took her beloved collection of plushies, her books, her Pokemon card collection and all the drawings and paintings she made.
+
+> *"I know how to go through this, we just need to clean, rebuild and start getting the things we need one step at a time. Look, yesterday you bought me my first plushie, we can do this!" Melusine*
 
 
-Name                  | Picture               | Bio                  
---------------------- | --------------------- | --------------------- 
-Henry                 | coming soon           | coming soon     
-Melusine              | coming soon           | Melusine likes everything that is cute, like Axolotls. She plays soccer, tennis and practice Martial Arts in Altadena. 
 
 
 ## Contact Us
