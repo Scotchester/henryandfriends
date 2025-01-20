@@ -19,7 +19,6 @@ The webpage is under construction and we'll update it daily. Please bear with us
 </div>
 
 <br/><br/>
-<br/><br/>
 
 ## How Can I help?
 There are many ways to help Henry and his friends.
