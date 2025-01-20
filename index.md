@@ -30,11 +30,9 @@ We set up a wishlist of toys, books, games, clothes and craft items of various p
 Here is the list. Feel free to share it around you.
 
 [![Amazon wishlist](https://github.com/user-attachments/assets/c3890272-2f03-458d-87f7-853b2fbb0e34)](https://www.amazon.com/hz/wishlist/ls/1FWAJI4C73LUU?ref_=wl_share)
-<p style="text-align:center;">
   
 [Henry and his Friends Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/1FWAJI4C73LUU?ref_=wl_share)
 
-</p>
 
 ### Resharing their story
 Resharing these kids story will help get more people involved in the challenging task to recreate a normal life for them. Whether you repost the link to this site or share the Amazon wishlist, or write about it, more exposure will bring more means.
