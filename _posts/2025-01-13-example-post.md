@@ -3,7 +3,7 @@ layout: post
 title: "Creation of the website"
 categories: test
 author:
-- Charles Mattei
+- Henry and friends parents
 meta: "Altadena Eaton Fire"
 ---
 
