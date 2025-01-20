@@ -23,7 +23,7 @@ There are many ways to help Henry and his friends.
 We set up a wishlist of toys, books, games, clothes and craft items of various prices on Amazon that will be shipped to a shared warehouse. We will keep track of all the items and share them equally among the kids based on their needs and preferences.
 
 Here is the list. Feel free to share it around you.
-[Henry and his Friends Amazon Wishlist]([https://link-url-here.org](https://www.amazon.com/hz/wishlist/ls/1FWAJI4C73LUU?ref_=wl_share ))
+[Henry and his Friends Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/1FWAJI4C73LUU?ref_=wl_share )
 
 ### Resharing their story
 Resharing these kids story will help get more people involved in the challenging task to recreate a normal life for them. Whether you repost the link to this site or share the Amazon wishlist, or write about it, more exposure will bring more means.
@@ -50,7 +50,9 @@ The fire took her beloved collection of plushies, her books, her Pokemon card co
 
 > *"I know how to go through this, we just need to clean, rebuild and start getting the things we need one step at a time. Look, yesterday you bought me my first plushie, we can do this!" Melusine*
 
-
+### Nova
+#### Bio
+Coming Soon
 
 
 ## Contact Us
